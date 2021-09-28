@@ -1,5 +1,5 @@
 # Aromatic Java
-- Small Java project which solve the following question
+- Question below are solved by Java
 
 ## Question 1
 Write down a program which generate a password based on the following criteria:
