@@ -14,3 +14,7 @@ Topics: String, Random numbers
 Write down a program which input an array of 10 marks and output the average mark.
 
 Topics: 1D Array
+
+## Question 3
+Write down a program to create a new array list of colours (String), sort the colours by alphabetical order and output the sorted list.
+Topics: ArrayList
