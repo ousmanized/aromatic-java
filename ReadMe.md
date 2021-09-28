@@ -18,3 +18,11 @@ Topics: 1D Array
 ## Question 3
 Write down a program to create a new array list of colours (String), sort the colours by alphabetical order and output the sorted list.
 Topics: ArrayList
+
+## Question 4
+Write down a program which take the following input and output.
+Input a date in the following format day, month and year respectively :
+05 08 2015
+Output  the day of the week in capital letters.
+WEDNESDAY
+Topics: DateTime API
