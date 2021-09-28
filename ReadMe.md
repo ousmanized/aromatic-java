@@ -26,3 +26,11 @@ Input a date in the following format day, month and year respectively :
 Output  the day of the week in capital letters.
 WEDNESDAY
 Topics: DateTime API
+
+## Question 5 
+Write down a program which takes as input a float number and output
+The square root of the number
+The number to the power of 4
+it’s ceil, round and floor value of the number
+
+Topics: Math
