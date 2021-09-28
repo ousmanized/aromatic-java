@@ -9,3 +9,8 @@ Write down a program which generate a password based on the following criteria:
 4. Can contain the following special character: ! @ # ? ]
 
 Topics: String, Random numbers
+
+## Question 2
+Write down a program which input an array of 10 marks and output the average mark.
+
+Topics: 1D Array
