@@ -52,3 +52,7 @@ Continuously ask 10 questions
 Calculate the total point out of 10
 
 Topics: String, Files, Loops, ArrayList, Classes
+
+## Paper, Rock & Scissors
+
+Write a program to play Paper, Rock & Scissors 
