@@ -13,7 +13,7 @@ public class Question3 {
         colours.add("Yellow");
         colours.add("Green");
         colours.add("Brown");
-        colours.add("Yellow");
+        colours.add("Cream");
         colours.add("Black");
         System.out.println(colours.size());
         System.out.println(colours.get(4));
@@ -23,5 +23,11 @@ public class Question3 {
         Collections.sort(colours);
 
         System.out.println("The sorted list: " + colours);
+
+        colours.sort(Collections.reverseOrder());
+
+        System.out.println("The descending sorted list: " + colours);
+
+
     }
 }
